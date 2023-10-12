@@ -125,5 +125,9 @@ h2 {
   vertical-align: middle;
   padding: 0 20px;
 }
+.feature-alaulu {
+  padding-top: 65px;
+  background-image: url("img/alaulu.svg"); 
+}
 
 
